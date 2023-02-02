@@ -1,6 +1,6 @@
 # 🏄‍♂️ Morgan Kemp
 
-**'Digital Craftsman (Software Developer/Hardware Entheusiast/Linux User/Gamer)`**
+**`Digital Craftsman (Software Developer/Hardware Entheusiast/Linux User/Gamer)`**
 
 - 👋 Hi, I’m Morgan! 
 - 👀 I have experince in High level programming, Python, SQL, DB, Azure and frontend work! 
@@ -15,6 +15,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
 
 <details>
   <summary><h3>👨‍💻 My Coding Experince </h3></summary>
