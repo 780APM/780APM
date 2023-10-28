@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Software Developer/Hardware Entheusiast/Linux User/Gamer)`**
 
-- 👋 Hi, I’m Morgan! I currently work as a full stack low code devloper using OutSystems. 
-- 👀 I have experince in High level and Low level programming, Python, SQL, DB, Azure and frontend work! 
-- 🌱 I’m currently learning Javascript and its application to Django, continuing my dev knowledge on Keras and Numpy. 
+- 👋 Hi, I’m Morgan! I have been a full stack developer for the past 2 years. 
+- 👀 I have experince in High level and Low level programming, Python, SQL, DB, Azure, OutSyetems and frontend technologies! 
+- 🌱 I’m currently learning Javascript, as well as Linux based systems, specifically custom Kernels. 
 - 📫 How to reach me? Connect with me on Linkedin! 
 
 ### 🧰 Languages and Tools
