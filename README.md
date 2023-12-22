@@ -1,30 +1,35 @@
-# 🏄‍♂️ Morgan Kemp
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morgan Kemp
+===================================================================================================================================
 
-**`Digital Craftsman (Software Developer/Hardware Entheusiast/Linux User/Gamer)`**
+c
+-
 
-- 👋 Hi, I’m Morgan! I have been a full stack developer for the past 2 years. 
-- 👀 I have experince in High level and Low level programming, Python, SQL, DB, Azure, OutSyetems and frontend technologies! 
-- 🌱 I’m currently learning Javascript, as well as Linux based systems, specifically custom Kernels. 
-- 📫 How to reach me? Connect with me on Linkedin! 
+I have been a full stack developer for the past 2 years. have experince in High level and Low level programming, Python, SQL, DB, Azure, OutSyetems and frontend technologies! I’m currently learning Javascript, as well as Linux based systems, specifically custom Kernels. How to reach me? Connect with me on Linkedin, or email me from my PortFolio website!
 
-### 🧰 Languages and Tools
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+* 🌍  I'm based in London
+* 🖥️  See my portfolio at [This website address!](http://780apm.github.io/)
+* ✉️  You can contact me at [morgankemp48@gmail.com](mailto:morgankemp48@gmail.com)
+* 🧠  I'm learning CSS / HTML5, Python Frameworks, bespoke APIs & Daily LeetCode problems!
+* 🤝  I'm open to collaborating on Machine learning, Web Devlopment, AWS / Azure.
 
-#
+### Skills
 
-<details>
-  <summary><h3>👨‍💻 My Coding Journey </h3></summary>
-    In 2019, I embarked on my computer science journey with no prior coding experience, having shifted my focus from medicine. The first couple of years were a real challenge, but with dedication and hard work, I pushed through. It wasn't until my final year that I discovered my true passion for AI and based my dissertation on crafting a custom ML model. This model employed a weighted bias system, concentrating on inputs from a trained dataset, with the aim of accurately predicting handwritten numerical digits from the nMist dataset. I used tools like NumPy, Keras, and MatPlotLib, and spiced things up with data visualization techniques such as confusion matrices and linear regression charts. Since then, I've taken on various developer roles for different companies, where I've not only honed my skills but also worked closely with clients to bring their ideas to life. These positions have required me to handle high-level programming for front-end, back-end, and web development, providing a diverse and dynamic range of experiences. Since getting into the workplace i have just under 2 years full time work experieince, in both startup and corporate environments, working in the insurance industry and logistics, feel free to look over my GitHub for all of the projects i do! 
 
-<!---
-780APM/780APM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/780APM" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/morgan-kemp-114a68224/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/780APM"><img src="https://github-readme-stats.vercel.app/api?username=780APM&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="780APM's GitHub stats" /></a>
+
+<a href="http://www.github.com/780APM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=780APM&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/780APM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=780APM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
