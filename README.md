@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morgan Kemp
 ===================================================================================================================================
 
-c
--
 
 I have been a full stack developer for the past 2 years. have experince in High level and Low level programming, Python, SQL, DB, Azure, OutSyetems and frontend technologies! I’m currently learning Javascript, as well as Linux based systems, specifically custom Kernels. How to reach me? Connect with me on Linkedin, or email me from my PortFolio website!
 
