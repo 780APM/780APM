@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have been a full stack developer for the past 2 years. have experince in High level and Low level programming, Python, SQL, DB, Azure, OutSyetems and frontend technologies! I’m currently learning Javascript, as well as Linux based systems, specifically custom Kernels. How to reach me? Connect with me on Linkedin, or email me from my PortFolio website!
 
-* 🌍  I'm based in London
+* 🌍  I'm based in Essex
 * 🖥️  See my portfolio at [This website address!](http://780apm.github.io/)
 * ✉️  You can contact me at [morgankemp48@gmail.com](mailto:morgankemp48@gmail.com)
 * 🧠  I'm learning CSS / HTML5, Python Frameworks, bespoke APIs & Daily LeetCode problems!
