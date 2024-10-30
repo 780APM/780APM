@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morgan.
 ===================================================================================================================================
 
-💻 Full Stack Developer | Cloud Solutions | Low-Level Systems & Python Enthusiast
-With 2+ years of experience in full-stack development, I thrive on building scalable solutions across the entire technology stack. My journey spans from crafting efficient database architectures to implementing cloud-native applications.
+💻 Full Stack Developer | Linux User | Low-Level Systems, Data Analytics & Python Enthusiast
+With 2+ years of experience in full-stack development, I thrive on building scalable solutions across the entire technology stack. My journey spans from crafting efficient database architectures to implementing cloud-native and mobile applications.
 
 * 🌍  I'm based in Essex
 * 🖥️  See my portfolio at [This website address!](http://780apm.github.io/)
@@ -12,8 +12,8 @@ With 2+ years of experience in full-stack development, I thrive on building scal
 
 ### 🔧 Technical Expertise
 
-Backend Development: Python, SQL, Database Architecture
-Cloud Solutions: Azure Cloud Services, Infrastructure as Code
+Backend Development: Python, SQL, Database Architecture, AS400 and VB.NET
+Cloud Solutions: Azure Cloud Services, Infrastructure as Code, OutSystems
 Low-Level Programming: Systems Programming, Kernel Development
 Frontend: Modern Web Technologies, Responsive Design
 Enterprise Solutions: OutSystems, Low-Code Development
