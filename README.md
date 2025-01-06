@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morgan.
 ===================================================================================================================================
 
-💻 Full Stack Developer | Linux User | Low-Level Systems, Data Analytics & Python Enthusiast
-With 2+ years of experience in full-stack development, I thrive on building scalable solutions across the entire technology stack. My journey spans from crafting efficient database architectures to implementing cloud-native and mobile applications.
+💻 Full Stack Developer | Linux Enthusiast | Competitive Gamer | Experienced in Startups, Finance, and Logistics  
+With 2+ years of experience in full-stack development, I specialize in building scalable solutions across the entire technology stack. My expertise includes API integration, JSON handling, and a strong grasp of Python and web development technologies. I bring hands-on experience from startups, financial services, and shipping and logistics industries. As a Linux user and competitive gamer, I thrive in high-pressure environments and am constantly improving my skills through LeetCode challenges and low-level systems exploration.
 
-* 🌍  I'm based in Essex
+* 🌍  I'm based in the South East of England.
 * 🖥️  See my portfolio at [This website address!](http://780apm.github.io/)
 * ✉️  You can contact me at [morgankemp48@gmail.com](mailto:morgankemp48@gmail.com)
 * 🧠  I'm learning CSS / HTML5, Python Frameworks, bespoke APIs & Daily LeetCode problems!
