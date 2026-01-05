@@ -26,7 +26,7 @@ DevOps: CI/CD, Cloud Infrastructure, Automation
 
 Expanding my JavaScript ecosystem knowledge
 Diving deep into Linux kernel development
-Building my own Web Extension, FocusMode [FocusMode](https://chromewebstore.google.com/detail/focusmode/nibncjngdfeonjgpjeblgpfihckpblgd?authuser=0&hl=en)
+Building my own Web Extension, [FocusMode](https://chromewebstore.google.com/detail/focusmode/nibncjngdfeonjgpjeblgpfihckpblgd?authuser=0&hl=en)
 
 ### 📫 Let's Connect! 
 
