@@ -2,11 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 💻 Full Stack Developer | Linux Enthusiast | Competitive Gamer | Experienced in Startups, Finance, and Logistics  
-With 2+ years of experience in full-stack development, I specialize in building scalable solutions across the entire technology stack. My expertise includes API integration, JSON handling, and a strong grasp of Python and web development technologies. I bring hands-on experience from startups, financial services, and shipping and logistics industries. As a Linux user and competitive gamer, I thrive in high-pressure environments and am constantly improving my skills through LeetCode challenges and low-level systems exploration.
+With 4 years of experience in full-stack development, I specialize in building scalable solutions across the entire technology stack. My expertise includes API integration, JSON handling, and a strong grasp of Python and web development technologies. I bring hands-on experience from startups, financial services, and shipping and logistics industries. As a Linux user and competitive gamer, I thrive in high-pressure environments and am constantly improving my skills through LeetCode challenges and low-level systems exploration.
 
 * 🌍  I'm based in the South East of England.
 * 🖥️  See my portfolio at [This website address!](https://780apm.github.io/MorgansPortfolio.github.io/)
-* 🧠  I'm learning CSS / HTML5, Python Frameworks, bespoke APIs & Daily LeetCode problems!
+* 🧠  I'm learning CSS / HTML5, Python Frameworks, bespoke APIs & C/C++ 3D Graphics!
 * 🤝  I'm open to collaborating on Machine learning, Web Devlopment, AWS / Azure.
 
 ### 🔧 Technical Expertise
@@ -14,8 +14,8 @@ With 2+ years of experience in full-stack development, I specialize in building 
 Backend Development: Python, SQL, Database Architecture, AS400 and VB.NET
 Cloud Solutions: Azure Cloud Services, Infrastructure as Code, OutSystems
 Low-Level Programming: Systems Programming, Kernel Development
-Frontend: Modern Web Technologies, Responsive Design
-Enterprise Solutions: OutSystems, Low-Code Development
+Frontend: Modern Web Technologies, Responsive Design, React, HTML/CSS Fan. 
+Enterprise Solutions: OutSystems, Low-Code Development, Granicus, Mendix.
 DevOps: CI/CD, Cloud Infrastructure, Automation
 
 <p align="left">
@@ -26,8 +26,7 @@ DevOps: CI/CD, Cloud Infrastructure, Automation
 
 Expanding my JavaScript ecosystem knowledge
 Diving deep into Linux kernel development
-Exploring custom kernel modifications and system optimization
-Building scalable cloud-native applications
+Building my own Web Extension, FocusMode [FocusMode](https://chromewebstore.google.com/detail/focusmode/nibncjngdfeonjgpjeblgpfihckpblgd?authuser=0&hl=en)
 
 ### 📫 Let's Connect! 
 
